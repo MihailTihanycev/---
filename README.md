@@ -1,2 +1,2 @@
-В репозитории лежит прототип игрыт"Пинг-понг". Это мультиплеерная игра в кототорой два игрока отбивают мяч ракетками.Задача игроков закинуть мяч противнику за ракетку.
-Игра реализована на языке Python.
+The repository contains a prototype of the Ping Pong game. This is a multiplayer game in which two players hit the ball with rackets. The players' task is to throw the ball behind the opponent's racket.
+The game is implemented in Python.
